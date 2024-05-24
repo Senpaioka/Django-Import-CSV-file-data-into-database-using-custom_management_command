@@ -1,0 +1,5 @@
+
+superuser : admin
+mail : admin@mail.com
+password : 1234
+
